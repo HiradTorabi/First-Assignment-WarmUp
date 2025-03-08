@@ -5,6 +5,8 @@ public class Exercises {
      */
     public boolean isPrime(long n) {
         // todo
+        // 
+        //
         return false;
     }
 
@@ -34,6 +36,8 @@ public class Exercises {
         * *
         *  *
         *****
+
+
 
         the output has to be a two-dimensional array of characters, so don't just print the triangle!
      */
